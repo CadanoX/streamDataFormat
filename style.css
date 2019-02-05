@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type:none;
+}
+  
+html, body{
+	background-color: #222222;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.textDisplay {
+    background-color: white;
+    display: inline-block;
+    height: 100vh;
+    overflow: scroll;
+    width: 33vw;
+}
