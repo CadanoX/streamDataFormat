@@ -11,7 +11,8 @@ html, body{
 }
 
 .textDisplay {
-    background-color: white;
+    background-color: #222222;
+    color: rgb(224, 169, 97);
     display: inline-block;
     height: 100vh;
     overflow: scroll;
